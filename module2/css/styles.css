@@ -38,15 +38,15 @@ div.container {
 }
 
 h2.veggies {
-  background:#16BF27
+  background-color: #16BF27
 }
 
 h2.fruits {
-  background:#ECBB18
+  background-color: #ECBB18
 }
 
 h2.icecream {
-  background:#181FEC
+  background-color: #181FEC
 }
 
 /********** Desktop devices only **********/
